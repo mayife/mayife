@@ -1,10 +1,19 @@
-👋 Hi, I’m @mayife
-👀 I’m interested in photovoltaic power forecasting, machine learning, multimodal data fusion, and renewable energy technologies.
-🌱 I’m currently learning geography with a focus on remote sensing and spatial data analysis, and applying deep learning algorithms for energy forecasting.
-💞️ I’m looking to collaborate on projects related to photovoltaic/wind power forecasting, multimodal data fusion, or machine learning model development.
-📫 How to reach me: Email: 202312100010@nuist.edu.cn; Mobile: +8613346010250.
+# CatBoost Regression Forecasting Model
 
-<!---
-mayife/mayife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一个使用CatBoost算法进行回归预测的完整机器学习项目，包含数据预处理、模型训练、评估和可视化。
+
+## 项目概述
+- **任务**: 回归预测
+- **算法**: CatBoost (Gradient Boosting Decision Trees)
+- **特点**: 自动处理类别特征、可视化学习曲线、特征重要性分析
+
+## 功能特性
+- 自动数据预处理和缺失值处理
+- 支持数值和类别特征的混合处理
+- 三阶段数据集划分（训练/验证/测试）
+- 完整的模型评估指标（RMSE, R²）
+- 特征重要性分析和可视化
+
+## 快速开始
+
+### 安装依赖
