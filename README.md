@@ -1,4 +1,3 @@
-基于您的简历内容，以下是为您简要填充的个人介绍模板：
 
 👋 Hi, I’m @mayife  
 👀 I’m interested in photovoltaic power forecasting, machine learning, multimodal data fusion, and renewable energy technologies.  
